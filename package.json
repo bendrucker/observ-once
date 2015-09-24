@@ -1,7 +1,7 @@
 {
   "name": "observ-once",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Listen to a single observable value change and immediate unlisten",
   "license": "MIT",
   "repository": "bendrucker/observ-once",
