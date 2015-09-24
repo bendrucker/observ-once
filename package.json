@@ -1,0 +1,30 @@
+{
+  "name": "observ-once",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Listen to a single observable value change and immediate unlisten",
+  "license": "MIT",
+  "repository": "bendrucker/observ-once",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "once",
+    "listen",
+    "unlisten"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
