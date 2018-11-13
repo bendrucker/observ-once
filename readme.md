@@ -1,4 +1,4 @@
-# observ-once [![Build Status](https://travis-ci.org/bendrucker/observ-once.svg?branch=master)](https://travis-ci.org/bendrucker/observ-once)
+# observ-once [![Build Status](https://travis-ci.org/bendrucker/observ-once.svg?branch=master)](https://travis-ci.org/bendrucker/observ-once) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-once.svg)](https://greenkeeper.io/)
 
 > Listen to a single observable value change and immediate unlisten
 
